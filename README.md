@@ -1,1 +1,1 @@
-# focus
+# focus - learn web app basics
