@@ -1,0 +1,41 @@
+
+main{
+    background: #f45;
+}
+
+section{
+    height: 50vh;
+    border: 3px solid red;
+}
+
+nav{
+    background: red;
+    border: 1px solid #945;
+    font-weight: 600;
+}
+
+nav a{
+    color: lightgray;
+}
+
+nav a:hover{
+    color: white;
+    text-shadow:
+        1px 1px 1px black;
+}
+
+.site-header {
+  position: relative;
+}
+
+.site-header .navbar-brand {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 0;
+  z-index: 6;
+}
+
+.site-header .navbar-full {
+  padding-left: 20px;
+  padding-right: 20px;
+}
