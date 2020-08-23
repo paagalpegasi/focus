@@ -9,7 +9,6 @@
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/particles.min.js"></script>
-    <script src="js/focus.js"></script>
     <title>Focus LMS</title>
 </head>
 <body>
@@ -55,4 +54,5 @@
         <section> section </section>
     </main>
 </body>
+<script src="js/focus.js"></script>
 </html>

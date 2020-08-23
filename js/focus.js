@@ -1,3 +1,8 @@
+$('.navbar-toggler').on('click',function(){
+    console.log("nav tog")
+    $(this).next().stop().toggle('fade')
+})
+
 particlesConf = {
   "particles": {
     "number": {
