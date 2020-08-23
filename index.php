@@ -8,13 +8,15 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/particles.min.js"></script>
+    <script src="js/focus.js"></script>
     <title>Focus LMS</title>
 </head>
 <body>
     <header class="site-header is-sticky">
         <nav class="navbar navbar-full navbar-expand-md is-transparent sticky-top" id="mainnav">
             <div class="navbar-brand">
-                <img class="logo" src="lib/logo-big.png" alt="Cryptico Zinnia">
+                <img class="logo" src="lib/logo-big.png" alt="Brand Logo">
             </div> 
             
             <button class="navbar-toggler" type="button">
@@ -47,7 +49,7 @@
         </nav>
     </header>
     <main>
-        <section> section </section>
+        <section id="sec01"> section </section>
         <section> section </section>
         <section> section </section>
         <section> section </section>
